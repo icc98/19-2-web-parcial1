@@ -34,3 +34,16 @@
     margin-top: 20px;
 
 }
+
+#chat{
+    width: 300px;
+}
+.messages{
+    margin: 8px;
+    padding: 10px;
+    background: #381a54;
+    color: #fff;
+    border-radius: 8px;
+    width: 300px;
+}
+
