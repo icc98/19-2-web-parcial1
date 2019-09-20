@@ -1,0 +1,36 @@
+
+
+  .chat__send input {
+    border-color: lightgray;
+    color: #020963;
+    border-radius: 20px;
+    border-style: solid;
+    background-color: white;
+    padding: 10px;
+    margin-right: 10px;
+    font-family: 'Heebo', sans-serif;
+    width: 350px;
+  }
+
+  .chat__send :hover {
+    border-color: blueviolet;
+  }
+
+.send__btn  {
+
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-decoration: none;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    -webkit-transition-duration: 0.4s;
+            transition-duration: 0.4s;
+    font-size: 10px;
+    padding: 0px 20px;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 20px;
+
+}
