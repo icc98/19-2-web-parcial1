@@ -36,14 +36,14 @@
 }
 
 #chat{
-    width: 300px;
+    width: 350px;
 }
 .messages{
-    margin: 8px;
-    padding: 10px;
-    background: #381a54;
+    margin: 10px 0;
+    padding: 10px 0;
+    background: blueviolet;
     color: #fff;
     border-radius: 8px;
-    width: 300px;
+    width: 350px;
 }
 
